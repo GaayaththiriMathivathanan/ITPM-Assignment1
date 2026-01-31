@@ -1,0 +1,117 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - table [ref=e3]:
+    - rowgroup [ref=e4]:
+      - row "hello Can't Read Tamil Properly ? Click Here To Install Tamil Font . Login / Register" [ref=e5]:
+        - cell "hello" [ref=e6]
+        - cell "Can't Read Tamil Properly ? Click Here To Install Tamil Font ." [ref=e7]:
+          - text: Can't Read Tamil Properly ?
+          - link "Click Here" [ref=e8] [cursor=pointer]:
+            - /url: Fonts.aspx
+          - text: To Install Tamil Font .
+        - cell "Login / Register" [ref=e9]:
+          - table [ref=e10]:
+            - rowgroup [ref=e11]:
+              - row "Login / Register" [ref=e12]:
+                - cell [ref=e13]
+                - cell "Login / Register" [ref=e14]:
+                  - link "Login / Register" [ref=e15] [cursor=pointer]:
+                    - /url: Register.aspx
+  - table [ref=e16]:
+    - rowgroup [ref=e17]:
+      - row "Online Tamil Tools" [ref=e18]:
+        - cell "Online Tamil Tools" [ref=e19]:
+          - heading "Online Tamil Tools" [level=1] [ref=e20]
+      - row "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e21]:
+        - cell "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e22]:
+          - generic:
+            - list:
+              - listitem [ref=e23]:
+                - link "Conversion" [ref=e24] [cursor=pointer]:
+                  - /url: ./
+              - listitem [ref=e25]:
+                - link "Dictionary" [ref=e26] [cursor=pointer]:
+                  - /url: Dictionary.aspx
+              - listitem [ref=e27]:
+                - link "Tamil Search" [ref=e28] [cursor=pointer]:
+                  - /url: Search.aspx
+              - listitem [ref=e29]:
+                - link "Export To Image" [ref=e30] [cursor=pointer]:
+                  - /url: Export.aspx
+              - listitem [ref=e31]:
+                - link "Fonts" [ref=e32] [cursor=pointer]:
+                  - /url: Fonts.aspx
+              - listitem [ref=e33]:
+                - link "Help" [ref=e34] [cursor=pointer]:
+                  - /url: Comments.aspx
+              - listitem [ref=e35]:
+                - link "FAQ" [ref=e36] [cursor=pointer]:
+                  - /url: How-To-Write.aspx
+      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil literature books novels Tamil music albums CDs Tamil language learning courses Tanglish writing guide Tamil font download" [ref=e37]:
+        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil literature books novels Tamil music albums CDs Tamil language learning courses Tanglish writing guide Tamil font download" [ref=e38]:
+          - table [ref=e39]:
+            - rowgroup [ref=e40]:
+              - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil literature books novels Tamil music albums CDs Tamil language learning courses Tanglish writing guide Tamil font download" [ref=e41]:
+                - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil literature books novels Tamil music albums CDs Tamil language learning courses Tanglish writing guide Tamil font download" [ref=e42]:
+                  - table [ref=e43]:
+                    - rowgroup [ref=e44]:
+                      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e45]:
+                        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil)" [ref=e46]:
+                          - table [ref=e47]:
+                            - rowgroup [ref=e48]:
+                              - row "English To Tamil Conversion" [ref=e49]:
+                                - cell "English To Tamil Conversion" [ref=e50]:
+                                  - heading "English To Tamil Conversion" [level=1] [ref=e51]
+                              - row "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil)" [ref=e52]:
+                                - cell "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil)" [ref=e53]:
+                                  - table [ref=e54]:
+                                    - rowgroup [ref=e55]:
+                                      - row "Type in English and press space(add space) to get converted to tamil" [ref=e56]:
+                                        - cell "Type in English and press space(add space) to get converted to tamil" [ref=e57]
+                                      - row "Save Export" [ref=e58]:
+                                        - cell "Save Export" [ref=e59]:
+                                          - button "Save" [ref=e60]
+                                          - button "Export" [ref=e61]
+                                      - row "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e62]:
+                                        - cell "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e63]
+                                      - row [ref=e64]:
+                                        - cell [ref=e65]:
+                                          - textbox [ref=e66]
+                                      - row "(Press Ctrl+g to toggle between English and Tamil)" [ref=e67]:
+                                        - cell "(Press Ctrl+g to toggle between English and Tamil)" [ref=e68]
+                        - cell "Advertisement" [ref=e69]:
+                          - insertion [ref=e70]:
+                            - iframe [ref=e72]:
+                              - generic [active] [ref=f2e1]:
+                                - generic [ref=f2e3]:
+                                  - link:
+                                    - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CwSs3ZQR-acOXPPPS4t4Pib7YmQGi0piDhQH7wZa7oRT416uP0REQASDXhKIMYJEBoAHTyImYPsgBAqgDAcgDyQSqBNQBT9CBwf-VEdmrglrGBB9LJoAbIL-nHhXTUoRXEV6_gtthjzde_ur88bp_o_hMxBkNVuldaq7C6djF05E7xcwpI1jcbzP4vldhAZ6nJS4g6rMTg4a3DiveMUISDRMRNwPaYVsSWXqUG5QIryeuimZuL1eN0zqGbhdNE-4cEmeQ_ApPV1Ma6ZUU9tH7ZsMMHpSP6NW2sWleY1ZvG8keKv1R7B8upa7Ei7owQSSjaAL8oRplGrKOO4PcQnu3PFgwAwMFMT4v70XweVlXHFwrbLVwqAIa_H_ABN7huJ6iBYgFuo2Vr1OgBgKAB9OA2vcYqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY3p309PG1kgOxCXqyzWPVcBiFgAoBmAsByAsBogwDkAEBqg0CTEvIDQHqDRMIn9_09PG1kgMVc6nYBR0JHzYT8A0CiA4F2BMD0BUBmBYByhYCCgD4FgGAFwGyFw4YASoKMzEyNzQ5MTUxMroXAjgBqhgXCQAAAAAA7PNAEgozMTI3NDkxNTEyGAGyGAkSAvpOGAIiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIg9709PG1kgMVc6nYBR0JHzYTEAEYASAAEgI-EPD_BwE&num=1&cid=CAQSvgEA56J1eWwMPAfCWZ-_8NmSlpKtCodeRoNTR0wb6XTSJASx_cF2NWrDNxzdttc6IQ-pLtTkD4sH3BTPa2X8SCnhZvdymCeL43IViVLnxXvPluEV3ZeXpt4p63z8u081Yo7oNkwxHcpRpy7RWBZKZOVvD69m3sqTDDsgHfZM192EwYLj8IjpsYdaCzOKP9ShUcfTNujhQ9XroTyjSJXCXS5SHhJ2axHPYbimPTXOJkkPv9IsG1ijfvYZF2S0Da6fGAE&sig=AOD64_3E8EQgKUglujBctObf7VUKKFj-0Q&client=ca-pub-0827640844035835&rf=2&nb=2&adurl=https://www.youtube.com/watch%3Fv%3D8P2kHNZjN34%26gad_source%3D5%26gad_campaignid%3D22379054778%26gclid%3DEAIaIQobChMIg9709PG1kgMVc6nYBR0JHzYTEAEYASAAEgI-EPD_BwE
+                                  - img [ref=f2e7] [cursor=pointer]
+                                  - button [ref=f2e9] [cursor=pointer]:
+                                    - img [ref=f2e10]
+                                - iframe
+                      - row "These are topics related to the article that might interest you Tamil literature books novels Tamil music albums CDs Tamil language learning courses Tanglish writing guide Tamil font download" [ref=e73]:
+                        - cell "These are topics related to the article that might interest you Tamil literature books novels Tamil music albums CDs Tamil language learning courses Tanglish writing guide Tamil font download" [ref=e74]:
+                          - insertion [ref=e75]:
+                            - generic [ref=e77]:
+                              - generic "These are topics related to the article that might interest you" [ref=e78]: Discover more
+                              - link "Tamil literature books novels" [ref=e79] [cursor=pointer]:
+                                - img [ref=e81]
+                                - text: Tamil literature books novels
+                              - link "Tamil music albums CDs" [ref=e83] [cursor=pointer]:
+                                - img [ref=e85]
+                                - text: Tamil music albums CDs
+                              - link "Tamil language learning courses" [ref=e87] [cursor=pointer]:
+                                - img [ref=e89]
+                                - text: Tamil language learning courses
+                              - link "Tanglish writing guide" [ref=e91] [cursor=pointer]:
+                                - img [ref=e93]
+                                - text: Tanglish writing guide
+                              - link "Tamil font download" [ref=e95] [cursor=pointer]:
+                                - img [ref=e97]
+                                - text: Tamil font download
+      - row [ref=e99]:
+        - cell [ref=e100]
+```
