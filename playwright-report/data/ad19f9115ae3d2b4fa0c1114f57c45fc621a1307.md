@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - table [ref=e3]:
+    - rowgroup [ref=e4]:
+      - row "hello Can't Read Tamil Properly ? Click Here To Install Tamil Font . Login / Register" [ref=e5]:
+        - cell "hello" [ref=e6]
+        - cell "Can't Read Tamil Properly ? Click Here To Install Tamil Font ." [ref=e7]:
+          - text: Can't Read Tamil Properly ?
+          - link "Click Here" [ref=e8] [cursor=pointer]:
+            - /url: Fonts.aspx
+          - text: To Install Tamil Font .
+        - cell "Login / Register" [ref=e9]:
+          - table [ref=e10]:
+            - rowgroup [ref=e11]:
+              - row "Login / Register" [ref=e12]:
+                - cell [ref=e13]
+                - cell "Login / Register" [ref=e14]:
+                  - link "Login / Register" [ref=e15] [cursor=pointer]:
+                    - /url: Register.aspx
+  - table [ref=e16]:
+    - rowgroup [ref=e17]:
+      - row "Online Tamil Tools" [ref=e18]:
+        - cell "Online Tamil Tools" [ref=e19]:
+          - heading "Online Tamil Tools" [level=1] [ref=e20]
+      - row "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e21]:
+        - cell "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e22]:
+          - generic:
+            - list:
+              - listitem [ref=e23]:
+                - link "Conversion" [ref=e24] [cursor=pointer]:
+                  - /url: ./
+              - listitem [ref=e25]:
+                - link "Dictionary" [ref=e26] [cursor=pointer]:
+                  - /url: Dictionary.aspx
+              - listitem [ref=e27]:
+                - link "Tamil Search" [ref=e28] [cursor=pointer]:
+                  - /url: Search.aspx
+              - listitem [ref=e29]:
+                - link "Export To Image" [ref=e30] [cursor=pointer]:
+                  - /url: Export.aspx
+              - listitem [ref=e31]:
+                - link "Fonts" [ref=e32] [cursor=pointer]:
+                  - /url: Fonts.aspx
+              - listitem [ref=e33]:
+                - link "Help" [ref=e34] [cursor=pointer]:
+                  - /url: Comments.aspx
+              - listitem [ref=e35]:
+                - link "FAQ" [ref=e36] [cursor=pointer]:
+                  - /url: How-To-Write.aspx
+      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement Advertisement" [ref=e37]:
+        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement Advertisement" [ref=e38]:
+          - table [ref=e39]:
+            - rowgroup [ref=e40]:
+              - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement Advertisement" [ref=e41]:
+                - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement Advertisement" [ref=e42]:
+                  - table [ref=e43]:
+                    - rowgroup [ref=e44]:
+                      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e45]:
+                        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil)" [ref=e46]:
+                          - table [ref=e47]:
+                            - rowgroup [ref=e48]:
+                              - row "English To Tamil Conversion" [ref=e49]:
+                                - cell "English To Tamil Conversion" [ref=e50]:
+                                  - heading "English To Tamil Conversion" [level=1] [ref=e51]
+                              - row "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil)" [ref=e52]:
+                                - cell "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name (Press Ctrl+g to toggle between English and Tamil)" [ref=e53]:
+                                  - table [ref=e54]:
+                                    - rowgroup [ref=e55]:
+                                      - row "Type in English and press space(add space) to get converted to tamil" [ref=e56]:
+                                        - cell "Type in English and press space(add space) to get converted to tamil" [ref=e57]
+                                      - row "Save Export" [ref=e58]:
+                                        - cell "Save Export" [ref=e59]:
+                                          - button "Save" [ref=e60]
+                                          - button "Export" [ref=e61]
+                                      - row "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e62]:
+                                        - cell "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e63]
+                                      - row [ref=e64]:
+                                        - cell [ref=e65]:
+                                          - textbox [ref=e66]
+                                      - row "(Press Ctrl+g to toggle between English and Tamil)" [ref=e67]:
+                                        - cell "(Press Ctrl+g to toggle between English and Tamil)" [ref=e68]
+                        - cell "Advertisement" [ref=e69]:
+                          - insertion [ref=e70]:
+                            - iframe [ref=e72]:
+                              - generic [ref=f2e2]:
+                                - iframe [ref=f2e5]:
+                                  - generic [ref=f7e5]:
+                                    - img [ref=f7e8]
+                                    - img [ref=f7e11]
+                                    - paragraph [ref=f7e12]: Book your stay with us when you next visit Galle
+                                    - paragraph [ref=f7e13]: RADISSON HOTELS GALLE
+                                    - img [ref=f7e16]
+                                    - img [ref=f7e19]
+                                    - paragraph [ref=f7e20]: BOOK NOW
+                                    - paragraph [ref=f7e21]: T&C's apply
+                                    - img [ref=f7e24]
+                                    - paragraph [ref=f7e25]:
+                                      - text: UP TO
+                                      - text: 15%
+                                      - text: "OFF"
+                                - generic [ref=f2e6]:
+                                  - generic:
+                                    - img [ref=f2e10] [cursor=pointer]
+                                    - button [ref=f2e12] [cursor=pointer]:
+                                      - img [ref=f2e13]
+                      - row "Advertisement" [ref=e73]:
+                        - cell "Advertisement" [ref=e74]:
+                          - insertion [ref=e75]:
+                            - iframe [ref=e77]:
+                              - generic [active] [ref=f3e1]:
+                                - link "sapphire substrate Custom Sapphire Tubes & Rods OPEN" [ref=f3e6] [cursor=pointer]:
+                                  - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CgVjqZAR-aZm5M57O4t4PstzPkQ7djIDshAHS2MuoyxXSkPSE2TIQASDXhKIMYJEBoAGg9t39KsgBAakCmuDiywNLgz6oAwHIA8sEqgTVAU_Q8-PCtpo6uLxMjTJBm6Z_A-5Y2VjA7y06yhfloMWjLdZZlUH3TF13be22-bbgtIJRfIgsZ3QtKyvd5zZ35EzLkmS_enPce47CxpHxjzIqv4zv5jfXZYRbq1dQF5-Z2cHEnIDvjNNkhT_TzS-RsgXLwbyXrF30zi-ln14Epwc8iJQtnll7xIdO6DABbpcHdt-iiEK7dhVN7RSxi-FwdlnpVDrRitBDaDzsawWMg-dNpv26FOrVfJqfOkW1AJc1acu6tT-c6Jrh4h6niLmCD7ty6dfdLcAEosvOydAFiAWF4pW-V4AHoK6u3QWoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj-0a708bWSA7EJ7jilelYr65qACgGYCwHICwGiDAsqBgoE1tqxApABAaoNAkxLyA0B6g0TCIv9rvTxtZIDFR6n2AUdMu4z4vANAogOBdgTDNAVAZgWAcoWAgoA-BYBgBcBshcOGAEqCjU4NTM0NzkzOTi6FwI4AaoYFwn_____f4cOQRIKNTg1MzQ3OTM5OBgBshgJEgKTVRgBIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMImfuu9PG1kgMVHqfYBR0y7jPiEAEYASAAEgL8-_D_BwE&num=1&cid=CAQSvwEA56J1ebF-RR_hlKXzeoG6LtcpLbauU090_Y13vBfCzyV7Nslbc-8SkOV3pvMJ4H3c9gyVd_GmBjK39baLaOTlhgPuPSTyOGOxkVBLpXjvpemxHbs0PY9_LP5T2y4x1Ee6Y-95xew3jqBLJJ4ogD79Ff1YHpeJoCr_k-CTtnryVobB3S_WNpJOtfU7QcSa74XWYN2tmsn9S0Phl1xCkURMCT1kQb1ef2INuq9ypqDWwLoneZ89aMfVtL8NDCfu4RgB&sig=AOD64_1kp2OSczY9OpWdKNN9DWrJIqBUIg&client=ca-pub-0827640844035835&rf=1&nb=2&adurl=https://www.sapphire-substrate.com/sale-45839016-polished-transparent-sapphire-tube-ky-method-customized-size-high-hardness-high-wear-resistance.html%3Fkh%26adcid%3D23479593527%26adgid%3D%26kwd%3D%26mctp%3D%26net%3Dx%26device%3Dc%26rank%3D%26gad_source%3D5%26gad_campaignid%3D23484264709%26gclid%3DEAIaIQobChMImfuu9PG1kgMVHqfYBR0y7jPiEAEYASAAEgL8-_D_BwE
+                                  - generic [ref=f3e7]:
+                                    - generic [ref=f3e10]:
+                                      - generic "sapphire substrate" [ref=f3e11]
+                                      - generic "sapphire substrate" [ref=f3e12]: Custom Sapphire Tubes & Rods
+                                    - generic [ref=f3e16]:
+                                      - generic [ref=f3e17]: OPEN
+                                      - img [ref=f3e18]
+                                - img [ref=f3e24] [cursor=pointer]
+                                - button [ref=f3e26] [cursor=pointer]:
+                                  - img [ref=f3e27]
+                                - iframe
+      - row [ref=e78]:
+        - cell [ref=e79]
+```
